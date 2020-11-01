@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+site=cases.kemitchell.com
+rsync -a --delete --exclude deploy --exclude .git ./ $site:/var/www/$site/
