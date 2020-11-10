@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Los Angeles County Sheriff's Department
 reports:
-  - 447 F.3d 769
+  - volume: 447
+    reporter: F.3d
+    page: 769
 court: 9th Circuit
 year: 2006
 tags:

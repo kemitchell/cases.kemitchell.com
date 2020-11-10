@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Autodesk, Inc.
 reports:
-  - 621 F.3d 1102
+  - volume: 621
+    reporter: F.3d
+    page: 1102
 courts:
   - 9th Circuit
 year: 2010

@@ -16,5 +16,9 @@ tags:
   - Copyright
   - License or Contract
 reports:
-  - 609 F. Supp. 2d 925
-  - 535 F.3d 1373 (Fed. Cir. 2008)
+  - volume: 609
+    reporter: F. Supp. 2d
+    page: 925
+  - volume: 535
+    reporter: F.3d
+    page: 1373

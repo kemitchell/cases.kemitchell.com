@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Pulse Communications, Inc.
 reports:
-  - 170 F.3d 1354
+  - volume: 170
+    reporter: F.3d
+    page: 1354
 courts:
   - Federal Circuit
 year: 1999

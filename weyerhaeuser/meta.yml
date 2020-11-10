@@ -7,7 +7,9 @@ defendants:
 court: Supreme Court
 year: 2007
 reports:
-  - 549 U.S. 312
+  - volume: 549
+    reporter: U.S.
+    page: 312
 tags:
   - Antitrust
   - Predatory Buying

@@ -8,7 +8,9 @@ courts:
   - 9th Circuit
 year: 1997
 reports:
-  - 121 F.3d 516
+  - volume: 121
+    reporter: F.3d
+    page: 516
 tags:
   - Copyright
   - Copyright Misuse

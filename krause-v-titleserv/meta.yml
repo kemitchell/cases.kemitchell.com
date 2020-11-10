@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Titleserv, Inc.
 reports:
-  - 402 F.3d 119
+  - volume: 402
+    reporter: F.3d
+    page: 119
 courts:
   - 2nd Circuit
 year: 2005

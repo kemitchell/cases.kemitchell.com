@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Southeastern Express Corp.
 reports:
-  - 64 F.3d 1330
+  - volume: 64
+    reporter: F.3d
+    page: 1330
 courts:
   - 9th Circuit
 year: 1995

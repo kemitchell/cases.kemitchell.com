@@ -26,11 +26,15 @@ def escape(string)
   return CGI::escape_html(string)
 end
 
+def report_link(report)
+  "<a href=https://courtlistener.com/c/#{report['reporter']}/#{report['volume']}/#{report['page']}>#{report['volume']} #{report['reporter']} #{report['page']}</a>"
+end
+
 def case_link(record)
   returned = "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
   if record[:reports]
     returned += ', '
-    returned += record[:reports].map { |c| "<cite>#{escape(c)}</cite>" }.join(', ')
+    returned += record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   returned += " (#{escape(record[:mnemonic])})" if record[:mnemonic]
   return returned

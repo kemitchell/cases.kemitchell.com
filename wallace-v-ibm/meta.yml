@@ -7,7 +7,9 @@ defendants:
   - Red Hat, Inc.
   - Novell, Inc.
 reports:
-  - 467 F.3d 1104
+  - volume: 467
+    reporter: F.3d
+    page: 1104
 courts:
   - 7th Circuit
 year: 2006

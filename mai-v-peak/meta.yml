@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Peak Computer, Inc.
 reports:
-  - 991 F.2d 511
+  - volume: 991
+    reporter: F.2d
+    page: 511
 courts:
   - 9th Circuit
 year: 1993

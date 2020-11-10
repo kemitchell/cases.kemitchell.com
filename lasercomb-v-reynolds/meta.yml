@@ -8,7 +8,9 @@ courts:
   - 4th Circuit
 year: 1990
 reports:
-  - 911 F.2d 970
+  - volume: 911
+    reporter: F.2d
+    page: 970
 tags:
   - Copyright
   - Copyright Misuse

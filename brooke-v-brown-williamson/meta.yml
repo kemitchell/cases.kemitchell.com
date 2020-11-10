@@ -8,7 +8,9 @@ courts:
   - Supreme Court
 year: 1993
 reports:
-  - 509 U.S. 209
+  - volume: 509
+    reporter: U.S.
+    page: 209
 tags:
   - Antitrust
   - Predatory Pricing

@@ -8,7 +8,9 @@ courts:
   - Supreme Court
 year: 1908
 reports:
-  - 210 U.S. 405
+  - volume: 210
+    reporter: U.S.
+    page: 405
 tags:
   - Antitrust
   - Intellectual Property

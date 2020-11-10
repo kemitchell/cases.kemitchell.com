@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - Columbia Broadcasting System, Inc.
 reports:
-  - 441 U.S. 1
+  - volume: 441
+    reporter: U.S.
+    page: 1
 courts:
   - Supreme Court
 year: 1979

@@ -5,7 +5,9 @@ plaintiffs:
 defendants:
   - DGI Technologies, Inc.
 reports:
-  - 81 F.3d 597
+  - volume: 81
+    reporter: F.3d
+    page: 597
 courts:
   - 5th Circuit
 year: 1996

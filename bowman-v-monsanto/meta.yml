@@ -9,7 +9,9 @@ courts:
 numbers:
   - 11-796
 reports:
-  - 569 U.S. 278
+  - volume: 569
+    reporter: U.S.
+    page: 278
 tags:
   - Patent
   - Patent Exhaustion
