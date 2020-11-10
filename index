@@ -24,8 +24,6 @@ def escape(string)
   return CGI::escape_html(string)
 end
 
-cases.sort_by { |i| i[:style] }
-
 def case_link(record)
   if record[:mnemonic]
     return "<a href=#{record[:id]}>#{escape(record[:style])}</a> (#{escape(record[:mnemonic])})"
@@ -47,7 +45,9 @@ File.open('index.html', 'w') do |f|
   <body>
 EOS
   f.write("<h1>Cases</h1>\n")
+
   # Case List
+  cases.sort_by! { |i| i[:style].downcase }
   f.write("<h2 id=alphabetical>Alphabetical</h2>\n")
   f.write("<ul>\n")
   cases.each do |record|
@@ -61,12 +61,13 @@ EOS
     id = tag.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
     f.write("<h3 id=\"#{id}\">#{escape(tag)}</h3>")
     f.write("<ul>")
-    records.sort_by { |i| i[:style] }
+    records.sort_by! { |i| i[:style].downcase }
     records.each do |record|
       f.write("<li>#{case_link(record)}</li>\n")
     end
     f.write("</ul>")
   end
+
   f.write("</body>")
   f.write("</html>")
 end
