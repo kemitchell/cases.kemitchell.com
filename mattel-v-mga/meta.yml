@@ -12,6 +12,10 @@ defendants:
   - MGAE de Mexico, S.R.L. de C.V.
   - Anne Wang
   - Omni 808 Investors LLC
+reports:
+  - volume: 616
+    reporter: F.3d
+    page: 904
 tags:
   - Contract
   - Copyright
