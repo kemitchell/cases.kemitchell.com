@@ -15,3 +15,7 @@ a[href]:hover {
 cite {
   font-style: normal;
 }
+
+.twoColumns {
+  columns: 2;
+}
