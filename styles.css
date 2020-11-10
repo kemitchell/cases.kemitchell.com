@@ -9,7 +9,7 @@ a[href] {
 }
 
 a[href]:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 cite {
