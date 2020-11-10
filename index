@@ -5,7 +5,7 @@ require 'cgi'
 cases = Array.new
 tags = Hash.new
 
-Dir.glob '**/*.yml' do |file|
+Dir.glob '**/meta.yml' do |file|
   data = YAML.load_file(file)
   id = File.dirname(file)
   record = { :id => id, :style => data['style'] }
