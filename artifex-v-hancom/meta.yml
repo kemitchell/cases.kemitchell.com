@@ -1,13 +1,6 @@
 ---
 style: Artifex v. Hancom
 mnemonic: Ghostscript in Korean word processor
-tags:
-  - Open Source
-  - GPL
-  - Copyleft
-  - License or Contract
-  - Copyright
-  - Dual Licensing
 plaintiffs:
   - Artifex Software, Inc.
 defendants:
@@ -16,3 +9,10 @@ courts:
   - Northern District of California
 numbers:
     - 16-cv-06982-JSC (N.D. Cal. Sep. 12, 2017)
+tags:
+  - Open Source
+  - GPL
+  - Copyleft
+  - License or Contract
+  - Copyright
+  - Dual Licensing
