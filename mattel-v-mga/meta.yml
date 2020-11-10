@@ -1,0 +1,30 @@
+---
+style: Mattel v. MGA
+plaintiffs:
+  - Mattel, Inc.
+defendants:
+  - MGA Entertainment, Inc.
+  - MGA Entertainment (HK) Limited
+  - Isaac Larian
+  - Carter Bryant
+  - Carlos Gustavo Machado Gomez
+  - MGAE de Mexico, S.R.L. de C.V.
+  - Anne Wang
+  - Omni 808 Investors LLC
+tags:
+  - Contract
+  - Copyright
+  - Toy Industry
+courts:
+  - Ninth Circuit
+numbers:
+  - "09-55673"
+  - "2:04-cv-09049-SGL-RNB"
+documents:
+  - date: 2010-07-22
+    title: opinion
+    author: Kozinski
+    panel:
+      - Kozinski
+      - Trott
+      - Wardlaw
