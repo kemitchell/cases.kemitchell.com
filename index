@@ -8,7 +8,11 @@ tags = Hash.new
 Dir.glob '**/meta.yml' do |file|
   data = YAML.load_file(file)
   id = File.dirname(file)
-  record = { :id => id, :style => data['style'] }
+  record = {
+    :id => id,
+    :style => data['style'],
+    :mnemonic => data['mnemonic']
+  }
   cases.push(record)
   data['tags'].each do |tag|
     tags[tag] = [] if tags[tag].nil?
@@ -21,6 +25,14 @@ def escape(string)
 end
 
 cases.sort_by { |i| i[:style] }
+
+def case_link(record)
+  if record[:mnemonic]
+    return "<a href=#{record[:id]}>#{escape(record[:style])}</a> (#{escape(record[:mnemonic])})"
+  else
+    return "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
+  end
+end
 
 File.open('index.html', 'w') do |f|
   f.write <<EOS
@@ -37,7 +49,7 @@ EOS
   f.write("<h2 id=cases>Cases</h2>\n")
   f.write("<ul>\n")
   cases.each do |record|
-    f.write("<li><a href=#{record[:id]}>#{escape(record[:style])}</a></li>\n")
+    f.write("<li>#{case_link(record)}</li>\n")
   end
   f.write("</ul>\n")
 
@@ -49,7 +61,7 @@ EOS
     f.write("<ul>")
     records.sort_by { |i| i[:style] }
     records.each do |record|
-      f.write("<li><a href=#{record[:id]}>#{escape(record[:style])}</a></li>\n")
+      f.write("<li>#{case_link(record)}</li>\n")
     end
     f.write("</ul>")
   end
