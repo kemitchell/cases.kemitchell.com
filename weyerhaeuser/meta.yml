@@ -4,7 +4,8 @@ plaintiffs:
   - Weyerhaeuser Co.
 defendants:
   - Ross-Simmons Hardwood Lumber Co.
-court: Supreme Court
+courts:
+  - Supreme Court
 year: 2007
 reports:
   - volume: 549
