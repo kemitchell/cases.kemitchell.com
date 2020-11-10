@@ -26,3 +26,7 @@ ul {
   column-gap: 3rem;
   columns: 2;
 }
+
+.twoColumns li {
+  break-inside: avoid-column;
+}
