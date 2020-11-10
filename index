@@ -32,9 +32,10 @@ end
 
 def case_link(record)
   returned = "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
-  returned += " (#{escape(record[:mnemonic])})" if record[:mnemonic]
+  if record[:mnemonic]
+    returned += " (#{escape(record[:mnemonic])})"
+  end
   if record[:reports]
-    returned += ', '
     returned += record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   return returned
