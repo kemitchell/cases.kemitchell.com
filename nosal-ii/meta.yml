@@ -1,0 +1,20 @@
+---
+style: US v. Nosal
+plaintiffs:
+  - United States of America
+defendants:
+  - David Nosal
+courts:
+  - Northern District of California
+numbers:
+  - "3:08-cr-00237"
+year: 2017
+tags:
+  - Computer Fraud and Abuse Act
+notes:
+  - 'focus: "knowingly and with intent to defraud" element'
+  - employee left to launch competitor
+  - work credentials revoked
+  - conspired to use current employee's credentials to download client info
+holdings:
+  - once access affirmatively revoked, cannot use third parties to get around

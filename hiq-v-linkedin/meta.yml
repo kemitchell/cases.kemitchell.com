@@ -1,0 +1,33 @@
+---
+style: HiQ v. LinkedIn
+mnemonic: website scraping
+plaintiffs:
+  - HiQ Labs, Inc.
+defendants:
+  - LinkedIn Corporation
+courts:
+  - Northern District of California
+numbers:
+  - 17-cv-16783 (N.D. Cal. Sep. 9, 2019)
+year: 2017
+tags:
+  - Scraping
+  - Computer Fraud and Abuse Act
+  - robots.txt
+  - Expectation of Privacy
+  - Interference with Contract
+  - California
+notes:
+  - other theories
+  - state trespass to chattels
+  - copyright infringement
+  - misappropriation
+  - unjust enrichment
+  - conversion
+  - breach of contract
+  - breach of privacy
+quotes:
+  - If companies like LinkedIn, whose servers hold vast amounts of public data, are permitted selectively to ban only potential competitors from accessing and using that otherwise public data, the result---complete exclusion of the original innovator in aggregating and analyzing the public information---may well be considered unfair competition under California law.
+  - In sum, Nosal II and Poewr Ventures control situations in which authorization generally is required and has either never been given or has been revoked.
+holdings:
+  - upheld preliminary injunction

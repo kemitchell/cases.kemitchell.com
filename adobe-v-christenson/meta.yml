@@ -1,0 +1,34 @@
+---
+style: Adobe v. Christenson
+mnemonic: resale of Adobe software
+plaintiffs:
+  - Adobe Systems, Inc.
+defendants:
+  - Joshua Christenson
+courts:
+  - 9th Circuit
+numbers:
+  - "2:10-cv-00422-LRH-GWF"
+tags:
+  - Copyright
+  - Copyright Misuse
+  - Burdens of Proof
+notes:
+  - burden of proof for first sale defense
+  - "'possession is nine-tenths of the law' has no traction under § 109(a)"
+  - Software Surplus, Inc.
+  - establishing infrinement\: copyright holder
+  - initial defense\: at SJ, D must show evidence sufficient for jury to find lawfully acquired ownership of genuine copies
+  - shift\: copyright holder must show licensing or other non-ownership-transferring arrangement when the copy first changed hands
+  - Rule 26(a) prevented Adobe from giving evidence of license-not-sale
+  - copyright holder in superior position to produce documentation
+  - Christenson\: "He cannot produce records that do not exist."
+  - Adobe\: always license, never sell
+  - "Adobe and Adobe alone knows the parties with whom it contracts."
+  - district court excluded virtually all of Adobe's late-offered evidence of licenses
+  - rather tortured discovery process
+  - "Adobe's effort to substitute general testimony and generic licenseing templates in lieu of the actual licensing agreements does not withstand scrutiny under Vernor."
+claims:
+  - copyright infringement
+holdings:
+  - affirm Adobe failed to produce license agreements or other evidence to document retention of title when first transferred

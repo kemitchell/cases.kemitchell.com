@@ -1,0 +1,21 @@
+---
+style: Krause v. Tileserv
+plaintiffs:
+  - Krause
+defendants:
+  - Titleserv, Inc.
+reports:
+  - 402 F.3d 119
+courts:
+  - 2nd Circuit
+year: 2005
+tags:
+  - Copyright
+  - First Sale Doctrine
+  - 17 USC 177
+notes:
+  - developed software under consulting agreement
+  - license to use, but not modify
+  - followed DSC, not MAI
+holdings:
+  - not "owner" under 117

@@ -1,0 +1,43 @@
+---
+style: Neo4j v. Purethink
+plaintiffs:
+  - Neo4j, Inc.
+defendants:
+  - PureThink, LLC
+  - John Mark Suhy
+  - iGov
+courts:
+  - United States District Court for the Northern District of California
+division: San Jose Division
+numbers:
+  - "5:18-cv-07182-EJD"
+tags:
+  - GPL
+  - AGPL
+  - Open Source
+  - Trademark
+notes:
+  - '"Neo4j" trademark'
+  - Neo4j Sweden AB licenses to Neo4j USA
+  - dual licensed Enterprise, then moved to paid only
+  - partnership agreement with PureThink
+  - terminated
+  - Neo4j sued Graphic Foundation, Inc. for infringement, false advertising, passing off, false designation of origin, unlawful and unfair competition
+  - 'allegation: "the Neo4j trademark is used and licensed as open source software, there is no ability to maintain quality control"'
+  - misstatement of date of first use does not support cancellation
+  - 'second type of abandonment: "When any course of conduct of the owner, including acts of omission as well as commission, causes the mark to become the generic name for the goods or services on or in connection with which it is used or otherwise to lpose its significance as a mark."'
+  - created confusion by using as company name and product name
+  - distributing via open source license a naked license
+  - use for company and product alone not enough
+  - "Defendants argue that the distribution of Neo4j branded software on an open source basis, subject to the GPL and AGPL, amounts to naked licensing."
+  - GPL and AGPL require prominent notices of changes
+  - Planetary Motion v. Techsplosion, Inc., 261 F.3d 1188, 1198 (11th Cir. 2001)
+  - distribution under GPL does not defeat trademark ownership
+  - "not necessarily ceded to the public domain and the licensor purports to retain ownership rights, which may or may not include rights to a mark"
+  - FreecycleSunnyvale v. Freecycle Network, 626 F.3d 509 (9th Cir. 2010)
+claims:
+  - cancellation of trademark
+  - abandonment of trademark
+holdings:
+  - "the absence of specific quality control provisions---either in the GPL, AGPL, or in a separate traemark license---is not dispositive here"
+  - "the fact that Plaintiff distributed Neo4j software on an open source basis pursuant to the GPL and GPL is not, without more, sufficient to establish a naked license or demonstrate abandonment"

@@ -1,0 +1,26 @@
+---
+style: Lynwood Investments v. NGINX
+mnemonic: NGINX appropriation
+plaintiffs:
+  - Lynwood Investments CY Limited
+defendants:
+  - Maxim Konovalov
+  - Igor Sysoev
+  - Andrewy Alexeev
+  - Maxim Dounin
+  - Gleb Smirnoff
+  - Angus Robertson
+  - NGINX, Inc. (BVI)
+  - NGINX Software, Inc.
+  - NGINX, Inc. (DE)
+  - BV NGINX, LLC
+  - Runa Capital, Inc.
+  - Eventure Capital Partners II LLC
+  - F5 Networks, Inc.
+courts:
+  - Northern District of California
+numbers:
+  - "3:20-cv-03778"
+tags:
+  - Open Source
+  - Work Made for Hire

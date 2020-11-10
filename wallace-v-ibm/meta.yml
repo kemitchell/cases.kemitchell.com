@@ -1,0 +1,39 @@
+---
+style: Wallace v. IBM
+plaintiffs:
+  - Daniel Wallace
+defendants:
+  - International Business Machines Corporation
+  - Red Hat, Inc.
+  - Novell, Inc.
+reports:
+  - 467 F.3d 1104
+courts:
+  - 7th Circuit
+year: 2006
+tags:
+  - Antitrust
+  - Predatory Pricing
+  - GPL
+  - Software
+  - Operating Systems
+notes:
+  - mistaken re prohibition on charging for derivative works
+  - mistaken on whether original author can charge
+  - mixes "open source" and "free" in one sentence
+  - Wallace wants to compete with Linux
+  - GPL as conspiracy
+  - predatory pricing\: 1) low prices 2) exit of producers 3) monopoly prices
+  - "Either prices will stay low (reflecting efficeint production and enduring benefits to consumers) or the practice will be self-deterring (because the predator loses more during the low-price period than it gains later, and consumers are net beneficiaries)."
+  - "proprietary software will enter or gain market share"
+  - "Many more people use Microsoft Windows, Apple OS X, or Sun Solaris than use Linux."
+  - no restraint of trade
+  - "It is a cooperative agreement that facilitates production fo new derivative works, and agreements that yield new products that would not arise through unilateral action are lawful. See, e.g., Broadcast Music, Inc. v. Columbia Broadcasting System, Inc., 441 U.S. 1 (1979); Pol Bros., Inc. v. Forest City Enterprises, Inc., 776 F.2d 185 (7th Cir. 1985). Cf. Texaco Inc. v. Dagher, 126 S. Ct. 1275 (2006)."
+  - "agreements to set maximum prices usually assist consumers"
+  - "marginal cost of an additional user is zero"
+  - "Copyright and patent laws give authors a _right_ to charge more, so that they can recover theri fixed costs (and thus promote innovation), but they do not _require_ authors to charge more."
+  - "donations of time"
+  - quick look
+  - "The GPL and open-source software have nothing to fear from the antitrust laws."
+holdings:
+  - no antitrust violation (quick look)

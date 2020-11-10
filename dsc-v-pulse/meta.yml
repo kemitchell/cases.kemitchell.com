@@ -1,0 +1,22 @@
+---
+style: DSC v. Pulse
+plaintiffs:
+  - DSC Communications Corp.
+defendants:
+  - Pulse Communications, Inc.
+reports:
+  - 170 F.3d 1354
+courts:
+  - Federal Circuit
+year: 1999
+tags:
+  - Copyright
+  - First Sale Doctrine
+  - 17 USC 177
+notes:
+  - telecommunications equipment ran software
+  - competitor made alternative hardware
+  - alternative hardware ran same software
+  - criticized MAI
+holdings:
+  - not "owners" under 117

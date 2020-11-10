@@ -1,0 +1,26 @@
+---
+style: Vernor v. Autodesk
+plaintiffs:
+  - Vernor
+defendants:
+  - Autodesk, Inc.
+reports:
+  - 621 F.3d 1102
+courts:
+  - 9th Circuit
+year: 2010
+tags:
+  - Copyright
+  - First Sale Doctrine
+  - 17 USC 117
+notes:
+  - "First, we consider whether the copyright owner specifies that a user is granted a license."
+  - "Second, we consider whether the copyright owner significantly restricts the user's ability to transfer the software."
+  - "Finally, we consider whether the copyright owner imposes notable use restrictions."
+  - Note 11\: "Although use restrictions were not dispositive in the MAI trio, we considered them in each case."
+  - reconcile Wise and MAI
+holdings:
+  - Autodesk retained title
+  - "imposes significant transfer restrictions"
+  - many usage restrictions
+  - not an owner

@@ -1,0 +1,16 @@
+---
+style: DHS v. University of California
+plaintiffs:
+  - Department of Homeland Security
+  - et al
+defendants:
+  - Regents of the University of California
+  - et al
+court: Supreme Court
+number: 18-587
+documents:
+  - digest: 42946e90ddfaf80d6a569b32194e82382565ac7c0757e7ade62641da066583a0
+    label: opinion
+tags:
+  - DACA
+  - Immigration

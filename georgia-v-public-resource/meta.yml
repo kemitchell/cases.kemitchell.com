@@ -1,0 +1,37 @@
+---
+style: Georgia v. Public Resource
+plaintiffs:
+  - Georgia
+  - et al.
+defendants:
+  - Public.Resource.org, Inc.
+courts:
+  - Supreme Court
+year: 1908
+numbers:
+  - 18-1150
+tags:
+  - Copyright
+  - Intellectual Property
+  - 17 USC 105
+notes:
+  - "The question in this case is whether that protection [under 102(a)] extends to the annotations in Georgia's official annotated code.  [Paragraph breaks here.] We hold that it does not."
+  - "Under what has been dubbed the government edicts doctrine, officials empowered to speak with the force of law cannot be the authors of---and therefore cannot copyright---the works they create in the course of their official duties."
+  - 'Banks v. Manchester, 128 U.S. 244 (1888): created by judges'
+  - 'here: created by legislative body'
+  - "Under the government edicts doctrine, judges----and, we now confirm, legislators---may not be considered the 'authors' of the works they produce in the course of their official duties as judges and legislators.  That rule applies regardless of whether a givern material carries the force of law."
+  - Wheaton v. Peters, 8 Pet. 591 (1834)
+  - 'Callaghan v. Myers, 128 U.S. 617 (1888): "headnotes, syllabi, tables of contents, and the like"'
+  - "The animating principle behind this rule is that no one can own the law."
+  - "Rather than attempting to catalog the materials that constitute 'the law,' the doctrine bars the officials responsible for creating the law from being considered the 'author[s]' of '_whatever work_ they perform in their capacity' as lawmakers."
+  - "But the bar on on copyright protection for federal works sweeps much more broadly than the government edicts doctrine does."
+  - "Georgia submits that, without copyright protection, Georgia and many other States will be unable to induce private parties like Lexis to assist in preparing affordable annotated codes for widespread distribution.  That appeal to copyright policy, however, is addressed to the wrong forum."
+  - "Imagine a Georgia citizen interested in learning his legal rights and duties. If he reads the economy-class version of the Georgia Code available online, he will see laws requiring political candidates to pay hefty qualification fees (with no indigency exception), criminalizing broad categories of consensual sexual conduct, and exempting certain key evidence in criminal trials from standard evidentiary limitations—with no hint that important aspects of those laws have been held unconstitutional by the Georgia Supreme Court. See OCGA §§21–2–131, 16–6–2, 16–6–18, 16–15–9 (available at www.legis.ga.gov). Meanwhile, first-class readers with access to the annotations will be assured that these laws are, in crucial respects, unenforceable relics that the legislature has not bothered to narrow or repeal. See §§21–2–131, 16–6–2, 16–6–18, 16–15–9 (available at https://store.lexisnexis.com/products/official-code-of-georgia-annotated-skuSKU6647 for $412.00)."
+  - "If everything short of statutes and opinions were copyrightable, then States would be free to offer a whole range of premium legal works for those who can afford the extra benefit.  A State could monetize its entire suite of of legislative history.  With today's digital tools, States might even launch a subscription or pay-per-law service. [Paragraph breaks here.] There is no need to assume inventive or nefarious behavior for those concerns to become a reality.  Unlike other forms of intellectual property, copyright protection is both instant and automatic."
+  - "... unless a State took the affirmative step of transferring its copyrights to the public domain..."
+  - '[Recognition that this is doctrinally possible!]'
+  - "Some affected parties might be willing to roll the dice with a potential fair use defense.  But that defense, designed to accommodate First Amendment concerns, is notoriously fact sensitive and often cannot be resolved without a trial."
+  - '[That is pay-per-fair-use.]'
+  - "Thankfully, there is a clear path forward that avoids these concerns---the one we are already on. Instead of ex amining whether given material carries \"the force of law,\" we ask only whether the author of the work is a judge or a legislator. If so, then whatever work that judge or legislator produces in the course of his judicial or legislative duties is not copyrightable. That is the framework our precedents long ago established, and we adhere to those precedents today."
+holdings:
+  - Copyright protection does not apply to Georgia's official annotated code.

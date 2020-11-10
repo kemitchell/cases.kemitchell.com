@@ -1,0 +1,27 @@
+---
+style: Ubiquiti v. Cambium
+plaintiffs:
+  - Ubiquiti Networks, Inc.
+defendants:
+  - Cambium Networks, Inc.
+  - Cambium Networks, Ltd.
+  - Blip Networks, LLC
+  - Winncom Technologies, Inc.
+  - Sakid Ahmed
+  - Dmitry Moiseev
+courts:
+  - Northern District of Illinois
+tags:
+  - Copyright
+  - Open Source
+  - GPL
+notes:
+  - GPL in code
+  - wireless enhancement point firmware
+claims:
+  - copyright infringement
+  - RICO
+  - CFAA
+  - Illinois Computer Crime Prevention Law
+  - Lanham Act
+  - state common law

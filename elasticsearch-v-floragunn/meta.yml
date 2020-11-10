@@ -1,0 +1,22 @@
+---
+style: ElasticSearch v. Floragunn
+plaintiffs:
+  - ElasticSearch, Inc.
+defendants:
+  - Floragunn GmbH
+courts:
+  - Northern District of California
+tags:
+  - Copyright
+  - Open Source
+notes:
+  - O'Melveny for ElasticSearch
+  - ElasticSearch's X-Pack
+  - Floragunn's SearchGuard
+  - alleged copying of source-available code
+  - alleged decompilation of prior binaries
+  - claimed big commit, unusually tiny message, after release
+  - claimed no unit testing, as for prior code
+claims:
+  - copyright infringement
+  - contributor copyright infringement

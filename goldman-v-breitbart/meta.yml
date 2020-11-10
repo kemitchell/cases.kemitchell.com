@@ -1,0 +1,34 @@
+---
+style: Goldman v. Breitbart
+mnemonic: photo in embedded tweet
+plaintiffs:
+  - Justin Goldman
+defendants:
+  - Breitbart News Network, LLC
+  - Heavy, Inc.
+  - Time, Inc.
+  - Yahoo, Inc.
+  - Vox Media, Inc.
+  - Gannett Company, Inc.
+  - Herald Media, Inc.
+  - Boston Globe Media Partners, Inc.
+  - New England Sports Network, Inc.
+courts:
+  - Southern District of New York
+numbers:
+  - "1:17-cv-03144"
+tags:
+  - Copyright
+notes:
+  - photo of Tom Brady
+  - vent viral
+  - embedded tweet
+quotes:
+  - When the Copyright Act was amended in 1976, the words "tweet," "viral," and "embed" invoked thoughts of a bird, a disease, and a reporter.
+  - That technology and terminology change means that, from time to time, questions of copyright law will not be altogether clear. In answering questions with previously uncontemplated technologies, however, the Court must not be distracted by new terms or new forms of content, but turn instead to familiar guiding principles of copyright.
+  - the fact that the image was hosted on a serer owned and operated by an unrelated third party (Twitter) does not shield them from this result.
+claims:
+  - copyright infringement
+holdings:
+  - infringement
+  - violated exclusive display right

@@ -1,0 +1,76 @@
+---
+style: Oracle v. Rimini Street
+plaintiffs:
+  - Oracle USA, Inc.
+  - Oracle America, Inc.
+  - Oracle International Corporation
+defendants:
+  - Rimini Street, Inc.
+  - Seth Ravin
+courts:
+  - 9th Circuit
+numbers:
+  - "2:10-cv-00106-LRH-VCF"
+tags:
+  - Copyright
+  - Copyright Misuse
+  - Terms of Service
+  - Software
+  - Software Support
+  - Software Maintenance
+  - Electronic Frontier Foundation
+notes:
+  - software license for one-time fee
+  - annual maintenance includes updates
+  - updates via support site
+  - Rimini provides third-party support
+  - used automated tools to download Oracle software
+  - violation of terms of service
+  - court and jury for Oracle
+  - California Comprehensive Data Access and Fraud Act
+  - Nevada Computer Crimes Law
+  - California Unfair Competition Law
+  - $50m damages, $124m total judgment
+  - first\: copyright under license for one customer for work for other customers or for unknown or future customers
+  - second\: use of automated tools to download software
+  - J.D. Ewards
+  - Siebel
+  - PeopleSoft
+  - Database
+  - Rimini itself didn't have Oracle licenses
+  - J.D. Edwards\: "except to the extent necessary for Customer's archival needs and to support the Users"
+  - Siebel\: "solely for archive or emergency back-up purposes or disaster recovery and related testing"
+  - for enterprise software, have to test updates with customizations
+  - sandboxes v. production
+  - maintaining requires copying
+  - outsourcing maintenance
+  - direct use\: creating development environments
+  - cross-use\: to support other customers
+  - Rimini\: any organization that might hire Rimini ... would itself have a license
+  - reduce expenses by reusing work
+  - focus on jury instructions
+  - raised contract, not just copyright, only in appellate brief
+  - MDY not raised in opening brief
+  - work for other and future customers not covered
+  - cites Apple v. Psystar for "does not prohibit using conditions to control use of copyrighted material"
+  - agree with Oracle
+  - "to support the customer's use"
+  - right of first publication, right of first copy
+  - giving Oracle head start creating development environments entirely consistent with Harper & Row v. Nation Enters.
+  - PeopleSoft\: "solely for Licensee's internal data processing operations at its facilities"
+  - more restrictive
+  - "local hosting"
+  - transmission delays
+  - Rimini made copies outside control of customers
+  - facilities under third-party control are not "licensee's facilities"
+  - no argument on how preventing local hosting stifles competition
+  - inconvenience and expense do not amount to copyright misuse
+  - claim that authorized by Oracle License and Service Agreements waived
+claims:
+  - copyright infringement
+  - unfair competition
+  - computer law violations
+holdings:
+  - affirmed copyright infringement
+  - reversed Unfair Competition Law claims
+  - reversed computer law claims

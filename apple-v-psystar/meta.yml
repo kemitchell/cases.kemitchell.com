@@ -1,0 +1,37 @@
+---
+style: Apple v. Psystar
+plaintiffs:
+  - Apple, Inc.
+defendants:
+  - Psystar Corporation
+courts:
+  - Northern District of California
+numbers:
+  - "3:08-cv-03251-WHA"
+tags:
+  - Copyright
+  - Copyright Misuse
+notes:
+  - Psystar is a small computer manufacturer
+  - using Apply Mac OS X on machines
+  - district court held infringed
+  - district court rejected misuse defense
+  - Psystar bought unopened copies
+  - Alcatel USA, Inc. v. DGI Techs., Inc., 166 F.3d 772 (5th Cir. 1999)
+  - "The heart of Psystar's argument is that the Copyright Act affords Apple protection only against unauthorized copying and distribution of the operating software, but not on its use once it is purchase."
+  - "Apple responds that to adequately demonstrate copyright misuse, Psystar must show either that the license agreement restricts creativity or that it restricts competition..."
+  - "where here Psystar is free to develop both competing hardware and software"
+  - "You agree not to install, use or run the Apple Software on any non-Apple labeled computer, or to enable others to do so."
+  - "its licensing agreement was intended to require the operating system to be used on the computer it was designed to operate, and it did not prevent others from developing their own computer or operating systems. These licensing agreements were thus appropriately used to prevent infringement and control use of the copyrighted material."
+  - cites Vernor v. Autodesk for first-sale not applying to licensed
+  - "It is this distinction between sales and licenses that has caused the use of software licensing agreements to flourish and become the preferred form of software transactions."
+  - "The distinction is well established in this circuit."
+  - cites Lasercomb
+  - "We have thus applied the doctrine [of copyright misuse] sparingly."
+  - "Our decision in Practice Management is the only case in which we upheld a copyright misuses defense. We did so because the copyright licensor in that case prevented the licensee from using any other competing product."
+  - "A software licensing agreement may reasonably restrict use of the software as long as it does not prevent the development of competing products."
+claims:
+  - copyright infringement
+holdings:
+  - no copyright misuse
+  - DMCA violations

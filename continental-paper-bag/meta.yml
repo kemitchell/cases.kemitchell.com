@@ -1,0 +1,18 @@
+---
+style: Continental Paper Bag v. Eastern Paper Bag
+plaintiffs:
+  - Continental Paper Bag Company
+defendants:
+  - Eastern Paper Bag Company
+courts:
+  - Supreme Court
+year: 1908
+reports:
+  - 210 U.S. 405
+tags:
+  - Antitrust
+  - Intellectual Property
+notes:
+  - ...
+holdings:
+  - "As inventor receives from a patent the right to exclude others from its use for the time prescribed in the statute, and this right is not dependent on his using the device or affected by his non-use thereof, and, except in a case where the public interest is involved, the remedy of injunction to prevent infringement of his patent will not be denied merely on the ground of non-user of the invention."
