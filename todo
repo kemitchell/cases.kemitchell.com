@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'yaml'
+
+Dir.glob '**/meta.yml' do |file|
+  data = YAML.load_file(file)
+  id = File.dirname(file)
+  if data['mnemonic'].nil?
+    puts "No Mnemonic: #{id}"
+  end
+end
