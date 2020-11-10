@@ -25,11 +25,9 @@ def escape(string)
 end
 
 def case_link(record)
-  if record[:mnemonic]
-    return "<a href=#{record[:id]}>#{escape(record[:style])}</a> (#{escape(record[:mnemonic])})"
-  else
-    return "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
-  end
+  returned = "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
+  returned += " (#{escape(record[:mnemonic])})" if record[:mnemonic]
+  return returned
 end
 
 File.open('index.html', 'w') do |f|
@@ -59,15 +57,15 @@ EOS
   f.write("<h2 id=tags>Tags</h2>\n")
   tags.sort.each do |tag, records|
     id = tag.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
-    f.write("<h3 id=\"#{id}\">#{escape(tag)}</h3>")
-    f.write("<ul>")
+    f.write("<h3 id=\"#{id}\">#{escape(tag)}</h3>\n")
+    f.write("<ul>\n")
     records.sort_by! { |i| i[:style].downcase }
     records.each do |record|
       f.write("<li>#{case_link(record)}</li>\n")
     end
-    f.write("</ul>")
+    f.write("</ul>\n")
   end
 
-  f.write("</body>")
+  f.write("</body>\n")
   f.write("</html>")
 end
