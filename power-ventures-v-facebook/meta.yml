@@ -1,17 +1,16 @@
 ---
 style: Facebook v. Power Ventures
+mnemonic: button to post to Facebook
 plaintiffs:
   - Facebook, Inc.
 defendants:
   - Power Ventures, Inc.
   - Steven Suraj Vachani
-court: Northern District of California
-number: 5:08-cv-05780
+courts:
+  - Northern District of California
+numbers:
+  - "5:08-cv-05780"
 year: 2017
-documents:
-  - digest: 8f4558d91ef6e1b1d1b201a00170e98425af0d29a7f4149bb1466f10658c37b6
-    date: 2016-12-09
-    label: opinion
 tags:
   - Public Data
   - Platform
@@ -21,7 +20,7 @@ tags:
   - California Penal Code 502
 notes:
   - power.com social media aggregator
-  - buton to post promo events, photos, or statuses on Facebook
+  - button to post promo events, photos, or statuses on Facebook
 holdings:
   - Did not violate CAN-SPAM, because messages were not materially misleading.
   - Violated CFAA after receiving cease-and-desist.
