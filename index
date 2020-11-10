@@ -46,8 +46,9 @@ File.open('index.html', 'w') do |f|
   </head>
   <body>
 EOS
+  f.write("<h1>Cases</h1>\n")
   # Case List
-  f.write("<h2 id=cases>Cases</h2>\n")
+  f.write("<h2 id=alphabetical>Alphabetical</h2>\n")
   f.write("<ul>\n")
   cases.each do |record|
     f.write("<li>#{case_link(record)}</li>\n")
