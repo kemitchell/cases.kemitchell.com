@@ -1,0 +1,11 @@
+html {
+  max-width: 40rem;
+}
+
+a[href] {
+  text-decoration: none;
+}
+
+a[href]:hover {
+  text-decoration: none;
+}
