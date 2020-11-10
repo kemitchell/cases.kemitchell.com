@@ -7,3 +7,19 @@ tags:
   - Copyleft
   - License or Contract
   - Copyright
+  - Dual Licensing
+plaintiffs:
+  - Artifex Software, Inc.
+defendants:
+  - Hancom, Inc.
+courts:
+  - Northern District of California
+numbers:
+    - 16-cv-06982-JSC (N.D. Cal. Sep. 12, 2017)
+documents:
+  - date: 2016-12-05
+    label: demand for jury trial
+  - date: 2017-04-25
+    label: order re motion to dismiss
+  - date: 2017-09-12
+    label: order re motion for partial summary judgment

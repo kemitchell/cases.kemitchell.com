@@ -3,10 +3,25 @@ style: Taylor v. Riojas
 mnemonic: prisoner kept naked in freezing, shit-covered cells
 tags:
   - Qualified Immunity
-  - Prison Conditions
   - Eighth Amendment
+  - Incarceration
+  - 42 USC 1983
 documents:
   - date: 2020-11-02
     court: Supreme Court of the United Staees
     holdings:
       - No qualified immunity
+plaintiffs:
+  - Trent Michael Taylor
+defendants:
+  - Rober Riojas
+  - et al
+notes:
+  - inmate kept naked in filthy cells for days
+  - inmate not taken to bathroom
+  - cell covered in feces
+  - freezing cell with no toilet
+holdings:
+  - no qualified immunity
+quotes:
+  - But no reasonable correctional officer could have concluded that, under the extreme circumstances of this case, it was constitutionally permissible to house Taylor in such deplorably unsanitary conditions for such an extended period of time.

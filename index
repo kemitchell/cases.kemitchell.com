@@ -11,8 +11,10 @@ Dir.glob '**/meta.yml' do |file|
   record = {
     :id => id,
     :style => data['style'],
+    :reports => data['reports'],
     :mnemonic => data['mnemonic']
   }
+  throw file if record[:style].nil?
   cases.push(record)
   data['tags'].each do |tag|
     tags[tag] = [] if tags[tag].nil?
@@ -26,6 +28,10 @@ end
 
 def case_link(record)
   returned = "<a href=#{record[:id]}>#{escape(record[:style])}</a>"
+  if record[:reports]
+    returned += ', '
+    returned += record[:reports].map { |c| "<cite>#{escape(c)}</cite>" }.join(', ')
+  end
   returned += " (#{escape(record[:mnemonic])})" if record[:mnemonic]
   return returned
 end

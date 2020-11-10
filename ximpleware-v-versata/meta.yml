@@ -1,7 +1,16 @@
 ---
-style: XimpleWare v. Versata
+style: Ximpleware v. Versata
 mnemonic: GPL violation
+plaintiffs:
+  - Ximpleware
+defendants:
+  - Versata
+courts:
+  - Northern District of California
+numbers:
+  - "5:13-cv-05161"
 tags:
-  - Open Source
-  - GPL
   - Copyright
+  - Open Source
+  - Dual Licensing
+  - GPL

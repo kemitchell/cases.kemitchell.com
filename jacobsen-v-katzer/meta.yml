@@ -1,8 +1,20 @@
 ---
 style: Jacobsen v. Katzer
 mnemonic: model train software
+plaintiffs:
+  - Robert Jacobsen
+defendants:
+  - Matthew Katzer
+  - Kamind Associates, Inc.
+courts:
+  - United States District Court for the Northern District of California
+numbers:
+  - 3:06-cv-01905-JSW
 tags:
   - Open Source
   - Artistic License
   - Copyright
   - License or Contract
+reports:
+  - 609 F. Supp. 2d 925
+  - 535 F.3d 1373 (Fed. Cir. 2008)

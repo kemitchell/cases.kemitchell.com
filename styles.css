@@ -11,3 +11,7 @@ a[href] {
 a[href]:hover {
   text-decoration: none;
 }
+
+cite {
+  font-style: normal;
+}
