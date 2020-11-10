@@ -36,7 +36,7 @@ def case_link(record)
     returned += " (#{escape(record[:mnemonic])})"
   end
   if record[:reports]
-    returned += record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
+    returned += " " + record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   return returned
 end
