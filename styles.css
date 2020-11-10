@@ -16,6 +16,12 @@ cite {
   font-style: normal;
 }
 
+ul {
+  margin: 0;
+  padding: 0 1rem;
+}
+
 .twoColumns {
+  column-gap: 3rem;
   columns: 2;
 }
