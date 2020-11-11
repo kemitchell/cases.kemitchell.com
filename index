@@ -47,7 +47,7 @@ def case_link(record)
     returned += " " + record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   if record[:numbers]
-    returned += " " + record[:numbers].map { |n| "<cite>#{ecape(n)}</cite>" }.join(', ')
+    returned += " " + record[:numbers].map { |n| "<cite>#{escape(n)}</cite>" }.join(', ')
   end
   return returned
 end
