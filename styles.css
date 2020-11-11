@@ -30,3 +30,7 @@ ul {
 .twoColumns li {
   break-inside: avoid-column;
 }
+
+h2 {
+  margin-top: 5rem;
+}
