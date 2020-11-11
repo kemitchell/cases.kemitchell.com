@@ -4,10 +4,8 @@ plaintiffs:
   - United States of America
 defendants:
   - David Nosal
-courts:
-  - Northern District of California
 numbers:
-  - "3:08-cr-00237"
+  N.D. Cal.: "3:08-cr-00237"
 year: 2017
 tags:
   - Computer Fraud and Abuse Act

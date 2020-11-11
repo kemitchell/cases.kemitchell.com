@@ -6,10 +6,8 @@ plaintiffs:
 defendants:
   - Matthew Katzer
   - Kamind Associates, Inc.
-courts:
-  - United States District Court for the Northern District of California
 numbers:
-  - 3:06-cv-01905-JSW
+  N.D. Cal.: 3:06-cv-01905-JSW
 tags:
   - Open Source
   - Artistic License

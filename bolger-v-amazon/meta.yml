@@ -5,11 +5,9 @@ plaintiffs:
   - Angela Bolger
 defendants:
   - Amazon.com, LLC
-courts:
-    - Court of Appeal, Fourth Appellate District, Division One, State of Califofnia
 year: 2020
 numbers:
-  - "37-2017-00003009-CU-PL-CTL"
+  California Court of Appeal, Fourth Appellate District, Division 1: "37-2017-00003009-CU-PL-CTL"
 tags:
   - Section 230
   - Strict Products Liability

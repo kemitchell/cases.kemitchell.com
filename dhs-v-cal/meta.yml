@@ -6,10 +6,8 @@ plaintiffs:
 defendants:
   - Regents of the University of California
   - et al
-courts:
-  - Supreme Court
 numbers:
-  - 18-587
+  Supreme Court: 18-587
 tags:
   - DACA
   - Immigration

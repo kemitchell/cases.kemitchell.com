@@ -8,10 +8,8 @@ defendants:
   - Derik Kumagai
   - Curt Chastain
   - Tomas Cantu
-courts:
-  - 9th Circuit
 numbers:
-  - 17-16756
+  9th Circuit: 17-16756
 tags:
   - Qualified Immunity
   - Fourth Amendment

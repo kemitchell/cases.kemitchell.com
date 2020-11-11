@@ -5,10 +5,8 @@ plaintiffs:
   - HiQ Labs, Inc.
 defendants:
   - LinkedIn Corporation
-courts:
-  - Northern District of California
 numbers:
-  - 17-cv-16783 (N.D. Cal. Sep. 9, 2019)
+  N.D. Cal.: 17-cv-16783 (N.D. Cal. Sep. 9, 2019)
 year: 2017
 tags:
   - Scraping

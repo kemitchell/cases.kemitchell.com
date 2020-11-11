@@ -3,7 +3,5 @@ style: Andersen v. Xterasys
 tags:
   - Busybox
   - Open Source
-courts:
-  - SDNY
 numbers:
-  - "07-CV-10455"
+  SDNY: "07-CV-10455"

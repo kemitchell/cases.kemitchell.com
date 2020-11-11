@@ -5,10 +5,8 @@ plaintiffs:
   - Ximpleware
 defendants:
   - Versata
-courts:
-  - Northern District of California
 numbers:
-  - "5:13-cv-05161"
+  N.D. Cal.: "5:13-cv-05161"
 tags:
   - Copyright
   - Open Source

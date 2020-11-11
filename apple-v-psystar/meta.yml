@@ -4,10 +4,8 @@ plaintiffs:
   - Apple, Inc.
 defendants:
   - Psystar Corporation
-courts:
-  - Northern District of California
 numbers:
-  - "3:08-cv-03251-WHA"
+  N.D. Cal.: "3:08-cv-03251-WHA"
 tags:
   - Copyright
   - Copyright Misuse

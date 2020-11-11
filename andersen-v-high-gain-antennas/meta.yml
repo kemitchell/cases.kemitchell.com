@@ -3,7 +3,5 @@ style: Andersen v. High Gain Antennas
 tags:
   - Busybox
   - Open Source
-courts:
-  - SDNY
 numbers:
-  - "07-CV-10456"
+  SDNY: "07-CV-10456"

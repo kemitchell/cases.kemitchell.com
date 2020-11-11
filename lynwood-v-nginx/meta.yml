@@ -17,10 +17,8 @@ defendants:
   - Runa Capital, Inc.
   - Eventure Capital Partners II LLC
   - F5 Networks, Inc.
-courts:
-  - Northern District of California
 numbers:
-  - "3:20-cv-03778"
+  N.D. Cal.: "3:20-cv-03778"
 tags:
   - Open Source
   - Work Made for Hire

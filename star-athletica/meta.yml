@@ -4,11 +4,9 @@ plaintiffs:
   - Star Athletica, LLC
 defendants:
   - Varsity Brands, Inc.
-courts:
-  - Supreme Court
 year: 2017
 numbers:
-  - "15-866"
+  Supreme Court: "15-866"
 tags:
   - Intellectual Property
   - Copyright

@@ -2,9 +2,7 @@
 style: Karasulu v. Red Hat
 mnemonic: Penrose trademark
 numbers:
-  - "CV11-02219-EMC"
-courts:
-  - N.D. Cal.
+  N.D. Cal.: "CV11-02219-EMC"
 year: 2011
 tags:
   - Open Source

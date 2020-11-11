@@ -7,11 +7,8 @@ defendants:
   - PureThink, LLC
   - John Mark Suhy
   - iGov
-courts:
-  - United States District Court for the Northern District of California
-division: San Jose Division
 numbers:
-  - "5:18-cv-07182-EJD"
+  N.D. Cal.: "5:18-cv-07182-EJD"
 tags:
   - GPL
   - AGPL

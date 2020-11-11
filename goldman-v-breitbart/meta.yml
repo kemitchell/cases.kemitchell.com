@@ -13,10 +13,8 @@ defendants:
   - Herald Media, Inc.
   - Boston Globe Media Partners, Inc.
   - New England Sports Network, Inc.
-courts:
-  - Southern District of New York
 numbers:
-  - "1:17-cv-03144"
+  SDNY: "1:17-cv-03144"
 tags:
   - Copyright
 notes:

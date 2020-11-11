@@ -5,10 +5,8 @@ plaintiffs:
   - Adobe Systems, Inc.
 defendants:
   - Joshua Christenson
-courts:
-  - 9th Circuit
 numbers:
-  - "2:10-cv-00422-LRH-GWF"
+  9th Circuit: "2:10-cv-00422-LRH-GWF"
 tags:
   - Copyright
   - Copyright Misuse

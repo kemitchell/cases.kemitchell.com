@@ -4,6 +4,4 @@ tags:
   - Busybox
   - Open Source
 numbers:
-  - "08-CV-5270"
-courts:
-  - SDNY
+  SDNY: "08-CV-5270"

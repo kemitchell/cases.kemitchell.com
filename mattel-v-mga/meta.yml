@@ -24,11 +24,8 @@ tags:
   - Idea-Expression Dichotomy
   - Trademark
   - Constructive Trusts
-courts:
-  - 9th Circuit
 numbers:
-  - "09-55673"
-  - "2:04-cv-09049-SGL-RNB"
+  9th Circuit: "2:04-cv-09049-SGL-RNB"
 documents:
   - date: 2010-07-22
     title: opinion

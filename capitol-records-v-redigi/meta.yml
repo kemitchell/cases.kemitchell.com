@@ -4,10 +4,8 @@ plaintiffs:
   - Capitol Records, LLC
 defendants:
   - ReDigi Inc.
-courts:
-  - Southern District of New York
 numbers:
-  - "12-cv-95"
+  SDNY: "12-cv-95"
 tags:
   - Copyright
 notes:

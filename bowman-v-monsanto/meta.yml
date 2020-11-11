@@ -4,10 +4,8 @@ plaintiffs:
   - Vernon Hugh Bowman
 defendants:
   - Monsanto Company
-courts:
-  - Supreme Court
 numbers:
-  - 11-796
+  Supreme Court:  11-796
 reports:
   - volume: 569
     reporter: U.S.

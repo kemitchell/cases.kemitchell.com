@@ -13,9 +13,9 @@ Dir.glob '**/meta.yml' do |file|
     :id => id,
     :style => data['style'],
     :reports => data['reports'],
-    :numbers => data['numbers'],
     :mnemonic => data['mnemonic']
   }
+  record[:numbers] = data['numbers'] if data['numbers'].kind_of?(Hash)
   throw file if record[:style].nil?
   cases.push(record)
   data['tags'].each do |tag|
@@ -47,7 +47,7 @@ def case_link(record)
     returned += " " + record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   if record[:numbers]
-    returned += " " + record[:numbers].map { |n| "<cite>#{escape(n)}</cite>" }.join(', ')
+    returned += " " + record[:numbers].map { |court, number| "<cite>#{escape(number)} (#{escape(court)})</cite>" }.join(', ')
   end
   return returned
 end

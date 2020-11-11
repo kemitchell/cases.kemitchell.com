@@ -5,10 +5,8 @@ plaintiffs:
   - Artifex Software, Inc.
 defendants:
   - Hancom, Inc.
-courts:
-  - Northern District of California
 numbers:
-    - 16-cv-06982-JSC (N.D. Cal. Sep. 12, 2017)
+  N.D. Cal.: 16-cv-06982-JSC (N.D. Cal. Sep. 12, 2017)
 tags:
   - Open Source
   - GPL

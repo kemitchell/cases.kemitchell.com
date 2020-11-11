@@ -4,11 +4,9 @@ plaintiffs:
   - Elasticsearch, Inc.
 defendants:
   - Amazon.com, Inc.
-courts:
-  - Northern District of California
 year: 2019
 numbers:
-  - 5:19-cv-06158
+  N.D. Cal.: 5:19-cv-06158
 tags:
   - Trademark
   - Open Source

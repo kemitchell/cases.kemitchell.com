@@ -6,11 +6,9 @@ plaintiffs:
   - et al.
 defendants:
   - Public.Resource.org, Inc.
-courts:
-  - Supreme Court
 year: 1908
 numbers:
-  - 18-1150
+  Supreme Court: 18-1150
 tags:
   - Copyright
   - Intellectual Property

@@ -3,7 +3,5 @@ style: Andersen v. Verizon Communications
 tags:
   - Busybox
   - Open Source
-courts:
-  - SDNY
 numbers:
-  - "07-CV-11070"
+  SDNY: "07-CV-11070"

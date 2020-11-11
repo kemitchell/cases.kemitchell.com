@@ -4,6 +4,4 @@ tags:
   - Busybox
   - Open Source
 numbers:
-  - "09-CV-10155"
-courts:
-  - SDNY
+  SDNY: "09-CV-10155"

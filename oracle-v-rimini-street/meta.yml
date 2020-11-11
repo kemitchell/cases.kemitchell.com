@@ -7,10 +7,8 @@ plaintiffs:
 defendants:
   - Rimini Street, Inc.
   - Seth Ravin
-courts:
-  - 9th Circuit
 numbers:
-  - "2:10-cv-00106-LRH-VCF"
+  9th Circuit: "2:10-cv-00106-LRH-VCF"
 tags:
   - Copyright
   - Copyright Misuse
