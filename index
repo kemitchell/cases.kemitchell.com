@@ -85,7 +85,7 @@ EOS
   end
 
   # Claim Index
-  f.write("<h2 id=claims>Claim</h2>\n")
+  f.write("<h2 id=claims>Claims</h2>\n")
   claims.sort.each do |claim, records|
     id = claim.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
     f.write("<h3 id=\"#{id}\">#{escape(claim)}</h3>\n")
