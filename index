@@ -13,6 +13,7 @@ Dir.glob '**/meta.yml' do |file|
     :id => id,
     :style => data['style'],
     :reports => data['reports'],
+    :numbers => data['numbers'],
     :mnemonic => data['mnemonic']
   }
   throw file if record[:style].nil?
@@ -44,6 +45,9 @@ def case_link(record)
   end
   if record[:reports]
     returned += " " + record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
+  end
+  if record[:numbers]
+    returned += " " + record[:numbers].map { |n| "<cite>#{ecape(n)}</cite>" }.join(', ')
   end
   return returned
 end
