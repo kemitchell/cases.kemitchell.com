@@ -1,5 +1,6 @@
 ---
 style: Planetary Motion v. Techsplosion
+mnemonic: Coolmail software v. CoolMail service
 reports:
   - volume: 61
     reporter: F.3d
@@ -9,3 +10,27 @@ courts:
 tags:
   - Open Source
   - GPLv2
+claims:
+  - Trademark Infringement
+  - Trademark Dilution
+  - Unfair Competition
+notes: |
+  - infringement of TM
+  - dilution of TM
+  - FL unfair competition
+  - affirmed SJ for PM
+  - vacated award of fees
+  - Coolmail e-mail notifier and gateway
+  - GPL
+  - in SuSE
+  - CoolMail.to service
+  - 3 intent-to-use TM applications
+  - PM buys out Darrah's software
+  - not prevented from getting TM because hobbyist, charitable
+  - recognition, software improvement
+  - service v. software
+quotes:
+  - |
+    That the Software had been distributed pursuant to a GNU General Public License does not defeat traemark ownership, nor does this in any way compel a finding that Darrah abandoned his rights in trademark.  Appellants misconstrue the function of a GNU General Public License.  Software distributed pursuant to such a license is not necessarily ceded to the public domain and the licensor purports to retain ownership rights, which may or may not include rights to a mark.[Note 16]
+
+    Note 16: Because a GNU General Public License requires licensees who wish to copy, distribute, or modify the software to include a copyright notie, the license itself is evidence of Darrah's efforts to control use of the "CoolMail" mark in connection with the Software.

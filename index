@@ -4,6 +4,7 @@ require 'cgi'
 
 cases = Array.new
 tags = Hash.new
+claims = Hash.new
 
 Dir.glob '**/meta.yml' do |file|
   data = YAML.load_file(file)
@@ -19,6 +20,12 @@ Dir.glob '**/meta.yml' do |file|
   data['tags'].each do |tag|
     tags[tag] = [] if tags[tag].nil?
     tags[tag].push(record)
+  end
+  unless data['claims'].nil?
+    data['claims'].each do |claim|
+      claims[claim] = [] if claims[claim].nil?
+      claims[claim].push(record)
+    end
   end
 end
 
@@ -69,6 +76,19 @@ EOS
   tags.sort.each do |tag, records|
     id = tag.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
     f.write("<h3 id=\"#{id}\">#{escape(tag)}</h3>\n")
+    f.write("<ul class=twoColumns>\n")
+    records.sort_by! { |i| i[:style].downcase }
+    records.each do |record|
+      f.write("<li>#{case_link(record)}</li>\n")
+    end
+    f.write("</ul>\n")
+  end
+
+  # Claim Index
+  f.write("<h2 id=claims>Claim</h2>\n")
+  claims.sort.each do |claim, records|
+    id = claim.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
+    f.write("<h3 id=\"#{id}\">#{escape(claim)}</h3>\n")
     f.write("<ul class=twoColumns>\n")
     records.sort_by! { |i| i[:style].downcase }
     records.each do |record|
