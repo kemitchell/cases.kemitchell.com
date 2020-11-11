@@ -7,3 +7,26 @@ reports:
 tags:
   - Open Source
   - GPL
+  - GPL Exceptions
+  - Program Output
+  - Employee Intellectual Property
+  - Copyright
+  - Trade Secret
+claims:
+  - Copyright Infringement
+  - Trade Secret Misappropriation
+notes: |
+  - preliminary injunction for plaintiff granted
+  - Enterprise DB Administrator software
+  - DB2 compatibility project
+  - employees leave after acquistiion
+  - hired by Quest
+  - kept and used copies of EDBA source code
+  - Quest Central for DB2 released
+  - clean room rewrite
+  - fight about expert who assessed code similarity
+  - whole EDBA source could be a trade secret
+  - copyright for modifications of public domain code
+  - EDBA used Bison 1.25
+  - output of program not subject to GPL
+  - special GPL exception in Bison 1.24
