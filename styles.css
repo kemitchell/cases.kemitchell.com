@@ -34,3 +34,8 @@ ul {
 h2 {
   margin-top: 3rem;
 }
+
+li {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
