@@ -5,6 +5,33 @@ reports:
   - volume: 188
     reporter: F.3d
     page: 1115
+    notes: |
+      - > This case illustrates how fast technology can outdistance the capacity of contract draftres to provide for the ramifications of a computer software licensing arrangement.
+      - Java
+      - license drafted on rush basis
+      - Sun: copyright infringement
+      - Microsoft: breach of contract
+      - copyright infringement creates presumption of irreparable harm for injunction
+      - Technology License and Distribution Agreement
+      - $3.75m per year
+      - requirements:
+        - product compatible implementation within six months of Sun creating any significant upgrade
+        - "shall include a mode which a Tool Customer may use to permit such Product to pass the Java Language Test Suite that accompanie[s]" any upgrades of Java
+      ## Copyright
+      - > We agree with Microsoft, however, that the district court should not have invoked the presumption of irreparable harm applicable to copyright infringement claims before it determined tah tthe compatibility requirements were a limit on the scope of the license rather than independent contractual covenants.
+      - no district court finding of irreparable harm absent presumption
+      - two keyword extensions
+      - three compiler directives
+      - mode that disabled extensions and directives
+      - JNI did not even exist when the parties signed the TLDA
+      - but could be a permissible upgrade, fall under "as modified" in the agreement
+      - district court held copyright, not contract, case, but didn't say why
+      - cites _Video Trip Corp. v. Lightning Video, Inc._, 866 F.2d 50 (2d Cir. 1989)
+      - cites _S.O.S., Inc. v. Payday, Inc._, 886 F.2d 1081 (9th Cir. 1989) (license to "use")
+      - > The determination of whether the compatibility terms in the TLDA are covenants or limitations on the scope of the license is likewise a contactual issue, for it requires us to construe the license.
+      - > The enforcement of a copyright license raises issues that lie at the intersection of copyright and contract law, and area of law that is not yet well developed.  We must decide an issues of first impression: whether, where two sophisticated parties have negotiated a copyright license and dispute its scope, the copyright hold3er who has demonstrated likely success on the merits is entitled to a presumption of irreparable harm.  We hold that it is, but only after the copyright holder has established that the disputed terms are limitations on the scope of the license rather than independent contractual covenants.  In other words, before Sun can gain the benefits of copyright enforcement, it must definitively establish that the rights it claims were violated are copyright, not contractual, rights.
+      ## Unfair Competition
+      - district court based order on past conduct, not likely future conduct
 numbers:
   Ninth Circuit: 99-15046
 tags:
@@ -18,30 +45,3 @@ claims:
   - Copyright Infringement
   - Unfair Competition
   - California Business and Professions Code 17200
-notes: |
-  - > This case illustrates how fast technology can outdistance the capacity of contract draftres to provide for the ramifications of a computer software licensing arrangement.
-  - Java
-  - license drafted on rush basis
-  - Sun: copyright infringement
-  - Microsoft: breach of contract
-  - copyright infringement creates presumption of irreparable harm for injunction
-  - Technology License and Distribution Agreement
-  - $3.75m per year
-  - requirements:
-    - product compatible implementation within six months of Sun creating any significant upgrade
-    - "shall include a mode which a Tool Customer may use to permit such Product to pass the Java Language Test Suite that accompanie[s]" any upgrades of Java
-  ## Copyright
-  - > We agree with Microsoft, however, that the district court should not have invoked the presumption of irreparable harm applicable to copyright infringement claims before it determined tah tthe compatibility requirements were a limit on the scope of the license rather than independent contractual covenants.
-  - no district court finding of irreparable harm absent presumption
-  - two keyword extensions
-  - three compiler directives
-  - mode that disabled extensions and directives
-  - JNI did not even exist when the parties signed the TLDA
-  - but could be a permissible upgrade, fall under "as modified" in the agreement
-  - district court held copyright, not contract, case, but didn't say why
-  - cites _Video Trip Corp. v. Lightning Video, Inc._, 866 F.2d 50 (2d Cir. 1989)
-  - cites _S.O.S., Inc. v. Payday, Inc._, 886 F.2d 1081 (9th Cir. 1989) (license to "use")
-  - > The determination of whether the compatibility terms in the TLDA are covenants or limitations on the scope of the license is likewise a contactual issue, for it requires us to construe the license.
-  - > The enforcement of a copyright license raises issues that lie at the intersection of copyright and contract law, and area of law that is not yet well developed.  We must decide an issues of first impression: whether, where two sophisticated parties have negotiated a copyright license and dispute its scope, the copyright hold3er who has demonstrated likely success on the merits is entitled to a presumption of irreparable harm.  We hold that it is, but only after the copyright holder has established that the disputed terms are limitations on the scope of the license rather than independent contractual covenants.  In other words, before Sun can gain the benefits of copyright enforcement, it must definitively establish that the rights it claims were violated are copyright, not contractual, rights.
-  ## Unfair Competition
-  - district court based order on past conduct, not likely future conduct
