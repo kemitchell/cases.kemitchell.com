@@ -10,6 +10,8 @@ tags:
   - Contract
   - Arizona Law
   - Delaware Law
+  - License or Contract
+  - Copyright Preclusion
 claims:
   - Declaratory Judgment
   - Copyright Infringement
@@ -39,6 +41,20 @@ notes: |
   - "conditions: breach constitutes copyright infringement"
   - "covenants: breach is actionable only under contract law"
   - > Wherever possible, equity construes ambiguous contract provisions as covenants rather than conditions.
+  ## DMCA
+  - scan.dll for initial launch
+  - resident component for ongoing monitoring
+  - 1201(a)(2) v. 1201(b)(1) side-by-side comparison
+  - text enough to decide, but covers legislative history
+  - > Congress was particularly concerned with encouraging copyright owners to make their works available in digital formats such as "on-demand" or "pay-per-view," which allow consumers effectively to "borrow" a copy of the work for a limited number of uses.
+  - declines to follow Federal Circuit's _Chamberlain_ decision (universal garage door openers)
+  - cites _Lexmark v. Static Control Components_, 387 F.3d 522 (6th Cir. 2004) (chip to fool Lexmark ink cartridge checks)
+  ## Tortious Interference
+  - under Arizona law
+  ## Copyright Act Preemption
+  - cites _Altera Corp. v. Clear Logic, Inc._, 424 F.3d 1079 (9th Cir. 2005) (California law)
+  - cites _ProCD_ ("A copyright is a right against the world. Contracts, by contrast, generally affect only their parties; strangers may do as they please, so contracts do not create 'exclusive rights.'")
+  - cites Fourth, Fifth, and Eighth Circuit cases agreeing that Copyright Act does not preempt a party's enforcement of its contractual rights
 quotes:
   - |
     Were we to hold otherwise, Blizzard --- or any software copyright holder --- could designate any disfavored conduct during softare use as copyright infringement, by purporting to condition the license on the player's abstention from the disfavored conduct.  The rationale would be that because the conduct occurs while the player's computer is copying the software code into RAM in order for it to run, the violation is copyright infringement.  This wouldallow software copyright owners far greater rights than Congress has generally conferred on copyright holders.
@@ -49,3 +65,7 @@ holdings:
     Applying _Vernor_, we hold that WoW players are licensees of WoW's game client software.
   - |
     TOU § 4(B)(ii) and (iii)'s prohibitions against bots and unauthorized third-party software are covenants rather than copyright-enforceable conditions.
+  - MDY violated 1201(a)(2) for dynamic, non-literal elements of WoW
+  - MDY did not violate 1201(b)(1)
+dispositions:
+  - remanded for trial on impropriety elements of tortious interference with contract
