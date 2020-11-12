@@ -8,3 +8,42 @@ reports:
 tags:
   - Copyright
   - Contract
+  - Arizona Law
+  - Delaware Law
+claims:
+  - Declaratory Judgment
+  - Copyright Infringement
+  - DMCA 1201(a)(2)
+  - DMCA 1201(b)(1)
+  - Tortious Interference with Contract
+notes: |
+  - EULA for game client
+  - terms of service for online service
+  - Glider automate play through early World of Warcraft levels
+  - Glider does not alter or copy WoW client
+  - Blizzard's Warden to prevent connections with modified software
+  - Blizzard banned Glider users
+  - MDY modified Glider to avoid Warden detection
+  - Glider Elite service for extra protection
+  - Glider website said it violated Blizzard TOU
+  - 120,000 sales, $3.5m gross revenue
+  - cease-and-desist
+  - MDY asked Blizzard to clarify how install file was infringing
+  - Blizzard counsel visited Donnelly's home, threatening suit
+  - stipulated $6m judgment
+  - playing game creates RAM copy
+  - > You agree that you will not ... (ii) create or use cheats, bots, "mods," and/or hacks, or any other third-party softare designed to modify the World of Warcraft experience...
+  - cites Vernor v. Autodesk for license-versus-owner
+  - cites Sun v. Microsoft: "A copyright owner who grants a nonexclusive, limited license ordinarily waives the right to sue licensees for copyright infringement, and it may sue only for breach of contract."
+  - "However, if the licensee acts outside the scope of the license, the licensor may sue for copyrigt infringement."
+  - "conditions: breach constitutes copyright infringement"
+  - "covenants: breach is actionable only under contract law"
+  - > Wherever possible, equity construes ambiguous contract provisions as covenants rather than conditions.
+quotes:
+  - |
+  Were we to hold otherwise, Blizzard --- or any software copyright holder --- could designate any disfavored conduct during softare use as copyright infringement, by purporting to condition the license on the player's abstention from the disfavored conduct.  The rationale would be that because the conduct occurs while the player's computer is copying the software code into RAM in order for it to run, the violation is copyright infringement.  This wouldallow software copyright owners far greater rights than Congress has generally conferred on copyright holders.
+
+  Note 3: A copyright holder may wish to enforce violations of license agreements as copyright infringements for several reasons.  First, breach contract damages are generally limited to the value of actual loss caused by the breach. _See_ 24 Richard A. Lorg, _Williston on Contracts_ § 65:1 (4th ed. 2007).  In contrast, copyright damages include the copyright owner's actual damages and the infringer's actual profits, or statutory damages of up to $150,000 per work.  17 U.S.C. § 504; _see_ _Frank Music Corp. v. MGM, Inc._, 772 F.2d 505, 512 n.5 (9th Cir. 1985).  Second, copyright law offers injunctive relief, seizure of infringing articles, and awards of costs and attorneys' fees. 17 U.S.C. §§ 502-03, 505.  Third, as amicus Software & Information Industry Association highlights, copyright law allows copyright owners a remedy against "downstream" infringers with whom they are not in privity of contract. _See_ _ProCD, Inc._, 86 F.3d at 1454.
+holdings:
+  - | Applying _Vernor_, we hold that WoW players are licensees of WoW's game client software.
+  - | TOU § 4(B)(ii) and (iii)'s prohibitions against bots and unauthorized third-party software are covenants rather than copyright-enforceable conditions.
