@@ -1,0 +1,18 @@
+---
+style: Feist v. Rural Telephone Service
+mnemonic: telephone directory
+reports:
+  - volume: 663
+    reporter: F.Supp.
+    page: 214
+  - volume: 916
+    reporter: F.2d
+    page: 718
+  - volume: 498
+    reporter: U.S.
+    page: 808
+  - volume: 499
+    reporter: U.S.
+    page: 340
+tags:
+  - Copyright
