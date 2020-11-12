@@ -11,8 +11,9 @@ tags:
   - GPLv2
   - Open Source
   - Free Software
+  - Third-Party Beneficiaries
 claims:
   - Antitrust
   - Unfair Competition
-claims:
-  - third-party beneficiary of GPLv2
+notes:
+  - Third-party beneficiary of GPLv2
