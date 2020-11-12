@@ -1,6 +1,8 @@
 ---
 style: Feist v. Rural Telephone Service
 mnemonic: telephone directory
+numbers:
+  Supreme Court: "89-1909"
 reports:
   - volume: 663
     reporter: F.Supp.
