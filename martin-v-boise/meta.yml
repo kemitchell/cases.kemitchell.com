@@ -1,5 +1,12 @@
 ---
 style: Martin v. Boise
+mnemonic: no citing for sleeping outside without shelter available
+reports:
+  - volume: 920
+    reporter: F.3d
+    page: 584
+    year: 2019
+    court: Ninth Circuit
 plaintiffs:
   - Martin
 defendants:
