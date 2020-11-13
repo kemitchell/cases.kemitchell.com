@@ -1,0 +1,50 @@
+---
+style: Foad Consulting v. Azzalino
+mnemonic: site plan for shopping center
+reports:
+  - volume: 270
+    repoter: F.3d
+    page: 821
+    court: Ninth Ninth Circuit
+    year: 2001
+    notes: |
+      # Court's Opinion
+      > Which law, state or federal, governs the creation of an implied, nonexclusvie copyright license?  We conclude that while federal law answeres the threshold question fo whether an implied, nonexclusive copyright license can be granted (it can), state law determines the contract question: whether a copyright holder has, in fact, granted such a license.
+      - held: gave an implied license
+      - revised site plan for shopping center
+      - new engineering consultant revised
+      - "letter of admonition"
+      - nothing in contracts transferring copyrights
+      - > We agree that the contract grants GenCom an implied license to use the revised plot plan to complete development of the project, to hire another firm to create derivative works using the revised plot plan for the purpose of completing the project, and to publish the resulting work.
+      ## Extrinsic Evidence?
+      - > In contrast to many other states, California has a liberal parol evidence rule: It permits consideration of extrinsic evidence to explain the meaning of the terms of a contract even when the meaning appears unambiguous.
+      - > As a general matter, we rely on state law to fill in the gaps Congress leaves in federal statutes.
+      - cites Sun v. Microsoft
+      - > Congress did not choose to regulate the conditions under which a copyright holder can grant a nonexclusive copyright license to another.
+      - > Since the Copyright Act itself places no particular emphasis on writings in the case of nonexclusive licenses, we conclude that application of California's parol evidence rule in interpreting a contract that a party purports to have granted an implied copyright license does not conflict with the Act or its underlying principles.
+      ## Implied License?
+      - central purpose of contract: to build the shopping center
+      - > Given the amount of money GenCom paid for Foad's services...
+      - proprietary legend placed on the plans after the fact irrelevant
+      - indemnity covering claims if others make changes to the plans
+      - clause on ownership of plans doesn't cover use
+      - anti-assignment clause doesn't prevent transfer to successor-in-interest
+
+      # Kozinski Concurrence
+      - > The parties will no doubt be surprised by the majority opinion, as it decides a question they neither briefed nor argued, and that wasn't even raised below.  This is a dangerous thing for a court to do, and wholly unnecessary.
+      - > Yet there is nothing in the written contract between Foad and GenCom that remotely touches upon the plans' copyright.
+      - > infer an agreement from the absence of a contrary agreement
+      - > penumbras emanating from an indemnification clause
+      - > Indemnification is not authorization.
+      - > In either event, however, the parol evidence is used to shed light on words actually used in the contract.
+      - > Other courts have devoted considerable discussion to section 301 in resolving the tension between state conract law and federal copyright laws.
+      - > designed to ensure certainty and predictability in the transfer of copyright
+tags:
+  - Copyright
+  - License or Contract
+  - Implied License
+  - California Law
+  - Parol Evidence
+  - No-Assignment Clauses
+claims:
+  - Copyright Infringement
