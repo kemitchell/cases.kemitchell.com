@@ -35,7 +35,12 @@ def escape(string)
 end
 
 def report_link(report)
-  "<a href=https://courtlistener.com/c/#{report['reporter']}/#{report['volume']}/#{report['page']}>#{report['volume']} #{report['reporter']} #{report['page']}</a>"
+  result = "<a href=https://courtlistener.com/c/#{report['reporter']}/#{report['volume']}/#{report['page']}>"
+  result += "#{report['volume']} #{report['reporter']} #{report['page']}</a>"
+  if report['court'] && report['year']
+    result += " (#{escape(report['court'])} #{escape(report['year'].to_s)})"
+  end
+  result
 end
 
 def case_link(record)
@@ -47,7 +52,7 @@ def case_link(record)
     returned += " " + record[:reports].map { |r| "<cite>#{report_link(r)}</cite>" }.join(', ')
   end
   if record[:numbers]
-    returned += " " + record[:numbers].map { |court, number| "<cite>#{escape(number)} (#{escape(court)})</cite>" }.join(', ')
+    returned += ", " + record[:numbers].map { |court, number| "<cite>#{escape(number)} (#{escape(court)})</cite>" }.join(', ')
   end
   return returned
 end

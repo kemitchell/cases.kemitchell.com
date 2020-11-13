@@ -5,6 +5,7 @@ reports:
   - volume: 188
     reporter: F.3d
     page: 1115
+    court: Ninth Circuit
     year: 1999
     notes: |
       - > This case illustrates how fast technology can outdistance the capacity of contract draftres to provide for the ramifications of a computer software licensing arrangement.
@@ -33,6 +34,18 @@ reports:
       - > The enforcement of a copyright license raises issues that lie at the intersection of copyright and contract law, and area of law that is not yet well developed.  We must decide an issues of first impression: whether, where two sophisticated parties have negotiated a copyright license and dispute its scope, the copyright hold3er who has demonstrated likely success on the merits is entitled to a presumption of irreparable harm.  We hold that it is, but only after the copyright holder has established that the disputed terms are limitations on the scope of the license rather than independent contractual covenants.  In other words, before Sun can gain the benefits of copyright enforcement, it must definitively establish that the rights it claims were violated are copyright, not contractual, rights.
       ## Unfair Competition
       - district court based order on past conduct, not likely future conduct
+  - volume: 81
+    reporter: F.Supp.2d
+    page: 1026
+    court: Northern District of California
+    year: 2000
+    notes: |
+      - license agreement signed "after intense negotiation"
+      - remedies provisions expressly addressed only breach of contract
+      - compared trademark license with explicit "subject to" to copyright licenses without
+      - > The license grants in sections 2.1 ("Source Code and Development License to Technology") and 2.2 ("Distribution License to Technology") allow Microsoft to distribute the Technology and Derivative Works of the Technology as part of a Product but say nothing about the license grants being subject to, conditional on, or limited by compliance with the compatibility obligations set forth in Section 2.6 ("Compatibility").  In contrast, the language used in the Trademark License incorporated into the TLDA expressly limits Microsoft's license to use Sun's Compatibility Logo to those Products that have passed the Java Test Suites.
+      - > The TLDA makes no mention of any right to seek an injunction for breach of a material provision or any suggestion that the parties intended to allow Sun to claim copyright infringement for a compatibility breach occurring before termination of the TLDA.
+      - > ... the court concludes that Sun has not established that the compatibility provisions of Section 2.6 are limitations on the scope of Microsoft's license rather than independent covenants.[Note 14]
 numbers:
   Ninth Circuit: 99-15046
 tags:
