@@ -1,0 +1,25 @@
+---
+style: S.O.S. v. Payday
+mnemonic: payroll software one-paragraph license
+tags:
+  - Copyright
+  - Software
+  - License or Contract
+  - License Construction
+reports:
+  - volume: 886
+    reporter: F.2d
+    page: 1081
+    notes: |
+      - softare license quoted in full
+      - > The series of programs is the property of SOS, and PAYDAY is acquiring the right of use, SOS retains all rights of ownership.
+      - programmers leave to set up own shop
+      - steps to cover up the fact they took the code with them
+      - "software piracy"
+      - > The district court erred in assuming that a license to use a copyrighted work necessarily precludes infringement.
+      - > The license must be construed in accordance with the purposes underlying federal copyright law. [Citation.] Chief among thesee purposes is the protection of the author's rights. [Citation.]
+      - > We rely on state law to provide the canons of contractual construction, but only to the extent such rules do not interfere with federal copyright law or policy. See Fantastic Fakes, Inc. v. Pickwick Int'l, Inc., 661 F.2d 479, 482-83 (5th Cir. 1981) (state law rules of contract construction not preempted by federal law; however, application of state law to supply implied terms in copyright license would raise preemption question).
+      - contra preferentem v. copyright: "licenses are assumed to prohibit any use not authorized"
+      - license grant held ambiguous
+      - > In the context of the parties' entire agreement, it is clear that the "right of use" was not intended to refer to copyright use.
+      - > Were this a license between S.O.S. and another software writer, "right of use" might be more properly construed to include uses, such as modification of the software, otherwise reserved to the copyright holder.
