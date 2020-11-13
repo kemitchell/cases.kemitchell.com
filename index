@@ -85,7 +85,7 @@ EOS
   f.write("<h2 id=tags>Tags</h2>\n")
   tags.sort.each do |tag, records|
     id = tag.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
-    f.write("<h3 id=\"#{id}\">#{escape(tag)}</h3>\n")
+    f.write("<h3 id=\"tag:#{id}\">#{escape(tag)}</h3>\n")
     f.write("<ul class=twoColumns>\n")
     records.sort_by! { |i| i[:style].downcase }
     records.each do |record|
@@ -98,7 +98,7 @@ EOS
   f.write("<h2 id=claims>Claims</h2>\n")
   claims.sort.each do |claim, records|
     id = claim.downcase.gsub(/ /, '-').gsub(/[^A-Za-z0-9-]/, '')
-    f.write("<h3 id=\"#{id}\">#{escape(claim)}</h3>\n")
+    f.write("<h3 id=\"claim:#{id}\">#{escape(claim)}</h3>\n")
     f.write("<ul class=twoColumns>\n")
     records.sort_by! { |i| i[:style].downcase }
     records.each do |record|
