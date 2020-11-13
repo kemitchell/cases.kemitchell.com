@@ -10,6 +10,8 @@ reports:
   - volume: 886
     reporter: F.2d
     page: 1081
+    year: 1989
+    court: Ninth Circuit
     notes: |
       - softare license quoted in full
       - > The series of programs is the property of SOS, and PAYDAY is acquiring the right of use, SOS retains all rights of ownership.
