@@ -10,7 +10,7 @@ courts:
 tags:
   - Copyright
   - Open Source
-notes:
+notes: |
   - O'Melveny for ElasticSearch
   - ElasticSearch's X-Pack
   - Floragunn's SearchGuard
