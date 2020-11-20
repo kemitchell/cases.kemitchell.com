@@ -1,7 +1,55 @@
 ---
 style: Whitewater West v. Alleshouse
+mnemonic: surfing water ride employee patent assignment
 numbers:
   Federal Circuit: ["2019-1852", "2019-2323"]
+  Southern District of California: "3:17-c-v-00501"
 reports:
   - date: 2020-11-19
-tags: [TODO]
+    held:
+      - assignment provision void
+      - lack standing to contest inventorship
+    notes: |
+      - water-park attractions
+      - engineer left company, started new firm
+      - conceived new patents after leaving
+      - did not use any trade secrets or other confidential information of previous employer
+      - "Covenant Against Disclosure and Covenant Not to Compete"
+      - quotes the full assignment provision
+      - governed by California law
+      - trial court held for company, cited _Stanford v. Roche Molecular Systems_, 583 F.3d 882 (Fed. Cir. 2009)
+      - "broad restraining effect"
+      - "_either_ 'resulting from or suggested by' his 'work for' Wave Loch _or_ 'in any way connected to any subject matter within the existing or contemplated business of' Wave Loch."
+      - "Anyone in his position would have developed useful, specialized knowledge of the business of water attractions, wholly apart form any confidential information.  Work in the same line of business was necessarily among the best and likeliest prospects for such an individual to pursue when leaving the employer."
+      - California Supreme Court cases
+        - culminating in _Edwards v. Arthur Andersen_, 189 P.3d 285 (2008)
+        - latest: _Ixchel v. Biogen_, 470 P.3d 571 (2020)
+      - Ninth Circuit Cases
+        - Golden I, 782 F.3d 1083 (2015)
+        - Golden II, 896 F.3d 1018 (2018)
+        - "do not specifically address contracts requiring assignments of rights in inventions conceived after employment"
+      - Federal District Courts in California do cover after-employment
+        - Armorlite Lens v. Campbell, 340 F.Supp 273 (S.D. Cal. 1972)
+        - Applied Materials v. Advanced Micro-Fabrication, 630 F.Supp.2d 1084 (N.D. Cal. 2009)
+        - Conversion Logic v. Measured, No. 2:19-cv-05546 (C.D. Cal. 2019)
+        - "Those decisions, all from federal district courts in California, confirm that invention-assignment provision that go beyond protection of proprietary information adn ensnare post-employment inventions are to be judged under the strict § 16600 standards that protect former emp0loyees.  As far as we have been shown, there is no contrary decision of a California federal court except for the district court's decision in this case."
+      - distinguishing _Stanford v. Roche_
+        - Stanford professor
+        - HIV research
+        - Visitor's Confidentiality Agrement at door
+        - "simply no evidence of a restraining effect on Holodniy's ability to engage in his profession"
+        - "more akin to the business-to-business dealings for which _Ixchel_ holds that § 16600 prescribes a much less strict approach"
+        - "conceived while Holodniy was visiting Cetus"
+      - statutory construction
+        - argument: 2870(a) limits 16600
+        - duty to harmonize statutes
+        - "... we reject Whitewater's premise that § 2870(a) clearly covers, and through its exceptions clearly approves, an agreement requiring assignment of post-employment inventions"
+        - "the exceptions in § 2870(a) cannot be broader in scope than the restriction to which they are exceptions"
+        - "Various features of the language of § 2870(a) at least suggest that it is referring only to inventions made by a person who, at the time of the making of the inventions, was an employee of the employer"
+tags:
+  - California Law
+  - Patent
+  - Worker Intellectual Property
+  - California Business and Professions Code 16600
+  - California Labor Code 2870
+  - California Labor Code 2872
