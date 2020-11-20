@@ -1,6 +1,8 @@
-#!/bin/sh
-set -e
+#!/bin/bash
 ./index
 ./format
+for pdf in **/*.pdf; do
+  pdftotext "$pdf" "$pdf.txt"
+done
 site=cases.kemitchell.com
 rsync -a --delete --exclude deploy --exclude format --exclude index --exclude todo --exclude tidy.config --exclude .git ./ $site:/var/www/$site/

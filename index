@@ -54,10 +54,11 @@ def case_link(record)
   if record[:numbers]
     returned += ", " + record[:numbers].map do |court, numbers|
       if numbers.kind_of?(Array)
-        return "<cite>#{numbers.map {|x| escape(x) }.join(', ')} (#{escape(court)})</cite>"
+        numbers_list = numbers.map {|x| escape(x) }.join(', ')
       else
-        return "<cite>#{escape(numbers)} (#{escape(court)})</cite>"
+        numbers_list = numbers
       end
+      "<cite>#{numbers_list} (#{escape(court)})</cite>"
     end.join(', ')
   end
   return returned
