@@ -1,0 +1,63 @@
+---
+style: Trum v. Boockvar
+numbers:
+  Middle District of Pennsylvania: "4:20-CV-02078"
+reports:
+  - date: 2020-11-21
+    notes: |
+      - plaintiffs:
+        - Trump campaing
+        - two Pennsylvania voters whose votes weren't counted
+          - one failed to use security envelope
+          - one rejected for unknown reason
+      - defendants:
+        - Secretary of the Commonwealth
+        - seven counties
+      - > In other words, Plaintiffs ask this Court to disenfranchise almost seven million voters.
+      - > One might expect that when seeking such a startling outcome, a plaintiff would come formidably armed with compelling legal arguments and factual proof of rampant corruption...
+        >
+        > This has not happened.   Instead, this Court has been presented with strained legal arguments without merit and speculative assertions, unpled in the operative compoaint and unsupported by evidence.  In the United States of America, this cannot justify the disenfranchisement of a single voter, let alone all the voters of this sixth most populated state.
+      - Pennsylvania passed law allowing everyone to vote by mail in October of 2019.
+      - Regulated process in March 2020, in light of COVID-19.
+      - no mention of "curing" defective ballots
+      - Boockvar sent e-mail to counties encouring them to give parties and candidates information on rejected ballots.
+      - Some counties implemented notice-and-cure.  Others didn't.
+      - > Plaintiffs have made multiple attempts at amending the pleadings, and have had attorneys both appear and withdraw in a matter of seventy-two hours.  There have been at least two perceived discovery disputes, one oral argument, and a rude and ill-conceived voicemail which distracted the Court's attention from the significant issues at hand.[Note]
+      - _Bognet v. Secretary of the Commonwealth of Pennsylvania_, No. 20-3214 (3d Cir. Nov. 13, 2020) (no standing)
+      - excised five of seven counts in amended complaint
+      - two counsel substititions
+      - Rudolph Giuliani
+      - > Plaintiff's only remaining claim alleges a violation of equal protection.  This claim, like Frankenstein's Monster, has been haphazardly stitched together from two distinct theories in an attemp to avoid controlling precedent.
+      - plaintiffs invoke _Bush v. Gore_
+      - > Apparently recognizing that such a broad claim is foreclosed under the Third Circuit's decision in _Bognet_, Plaintiffs try to merge it with a much simpler theory of harm based on the cancellation of Individual Plaintiffs' ballots in order to satisfy standing.[Note]
+      - > That Plaintiffs are trying to mix-and-match claims to bypass contrary precedent is not lost on the Court.
+      - lack standing
+      - Individual Plaintiffs established injury-in-fact
+      - failed to show Defendants caused injury
+      - failed to show that relief given by invalidating other votes
+      - _Donald J. Trump for President v. Cegavske_, No. 2:20-CV-1445 (D. Nev. Sept. 18, 2020) (no associational standing)
+      - cases about challening inclusion of rival candidates on ballots
+      - > It is telling that th eonly case from the Third Circuit cited to by Plaintiffs, _Marks v. Stinson_, does not contain a discussion of competitive standing or any other theory of standing applicable in federal court.
+      - > Without more, this Court declines to take such an expansive view of the theory of competitive standing, particularly given the abundance of guidance from other Circuits, based on Plaintiffs' own citations, limiting the use of this doctrine.
+      - > The general gist of their claims is that Secretary Boockvar, by failing to prohibit counties from implementing a notice-and-cure policy, and Defendant Counties, by adopting such a policy, have created a "standardless" system and thus unconstitutionally discriminated against Individual Plaintiffs.  Though Plaintiffs do not articulate why, they also assert that this has unconstitutionally discriminated against the Trump Campaign.
+      - rational basis review
+      - > Expanding the righ tto vote for some residents of a state does not burden the rights of others.[Note]
+      - > it is perfectly rational for a state to provide counties discretion to notify voters that they may cure procedurally defective mail-in ballots
+      - > Crucially, Plaintiffs fail to understand the relationship between right and remedy.
+      - > Rather than requesting that their votes be counted, they seek to discredit scores of other votes, but only for one race.[Note]  This is simply not how the Constitution works.
+      - "level up" or "level down", "level up" preferred
+      - > But even if it were logically possible to hold Pennsylvania's electoral system both constitutional and unconstitutional at the same time, the Court would not do so.
+      - > Because this Court has no authority to take away the right to vote of even a single person, let alone millions of citizens, it cannot grant Plaintiffs' requested relief.
+      - > None of these allegations (or the others in this section) claim that the Trump Campaign's waters were treated _differently_ than the Biden campaign's watchers.
+      - _Bush v. Gore_: "lack of guidance from a court constituted an equal-protection violation"
+      - > Requiring that every single county administer elections in exactly the same way woudl impose untenable burdens on counties, whether because of population, resources, or a myriad of other reasonable considerations.
+    held: |
+      - motions to dismiss granted
+      - with prejudice
+      - no leave to amend
+tags:
+  - Election Law
+  - 2020 Presidential Election
+  - Politics
+  - Donald Trump
+  - Pennsylvania Law
