@@ -35,8 +35,14 @@ def escape(string)
 end
 
 def report_link(report)
-  result = "<a href=https://courtlistener.com/c/#{report['reporter']}/#{report['volume']}/#{report['page']}>"
-  result += "#{report['volume']} #{report['reporter']} #{report['page']}</a>"
+  result = ""
+  if report['reporter']
+    result = "<a href=https://courtlistener.com/c/#{report['reporter']}/#{report['volume']}/#{report['page']}>"
+  end
+  result += "#{report['volume']} #{report['reporter']} #{report['page']}"
+  if report['reporter']
+    result += "</a>"
+  end
   if report['court'] && report['year']
     result += " (#{escape(report['court'])} #{escape(report['year'].to_s)})"
   end
