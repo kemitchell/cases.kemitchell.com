@@ -1,0 +1,17 @@
+---
+style ITAR-TASS v. Russian Kurier
+mnemonic: NY Russian-langauge newsletter copies news stories
+reports:
+  - volume: 153
+    repoter: F.3d
+    page: 82
+    date: 1998-08-27
+    notes: |
+      - exception to Russian work-for-hire for newspapers
+      - newspaper may nonetheless hold something like compilation copyright
+      - > Russian law determines the ownership and essential nature of the copyrights alleged to have been infringed
+      - > United States laqw determines whether those copyrights have been infringed in the United States and, if so, what remedies are available
+tags:
+  - Russian Law
+  - International Law
+  - Copyright Law
