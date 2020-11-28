@@ -1,6 +1,7 @@
 ---
 style: Trump v. Boockvar
 numbers:
+  Third Circuit: 20-3371
   Middle District of Pennsylvania: "4:20-CV-02078"
 reports:
   - date: 2020-11-21
@@ -56,6 +57,9 @@ reports:
       - motions to dismiss granted
       - with prejudice
       - no leave to amend
+  - date: 2020-11-27
+    court: Third Circuit
+    type: opinion
 tags:
   - Election Law
   - 2020 Presidential Election
